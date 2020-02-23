@@ -1,0 +1,32 @@
+Chef projet : nom nom
+Adjoint chef projet : nom nom
+Chef équipe maps : nom nom
+chef équipe player : nom nom
+chef équipe armes : nom nom
+chef équipe screen : nom nom
+chef équipe menu : nom nom
+équipe maps :
+		* nom nom
+		* nom nom
+		* nom nom
+équipe player :
+		* nom nom
+		* nom nom
+		* nom nom
+		* nom nom
+équipe armes :
+		* nom nom
+		* nom nom
+		* nom nom
+équipe screen:
+		* nom nom
+		* nom nom
+		* nom nom
+équipe menu :
+		*nom nom
+		*nom nom
+
+Chef relation client : nom nom
+Chef transmission serveur : nom nom
+chef BDD : nom nom
+
